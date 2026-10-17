@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Rajveer Vishwakarma 👋
 
-<!--
-**Rajveer919-stack/Rajveer919-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year BCA student who builds projects in Python and Flask.
 
-Here are some ideas to get you started:
+## Skills
+Python • Flask • SQLite • HTML • CSS • Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Library Management System](https://github.com/Rajveer919-stack/library-management): Flask + SQLite app with admin/member roles, book issue-return and late fines
+- [Flask To-Do App](https://github.com/Rajveer919-stack/flask-todo): login system with hashed passwords and user-wise tasks
+- [Student Management System](https://github.com/Rajveer919-stack/student-management): Python + SQLite CRUD app
+- [Weather App](https://github.com/Rajveer919-stack/weather-app): live weather using a public API
+- [Expense Tracker](https://github.com/Rajveer919-stack/expense-tracker): command-line expense tracking with file handling
+
+## Portfolio
+https://rajveer919-stack.github.io/portfolio/
